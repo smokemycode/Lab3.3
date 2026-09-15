@@ -14,14 +14,16 @@
 		<title>Frontend Mentor | Blog preview card</title>
 
 		<!-- <link rel="stylesheet" href="./styles.css" /> -->
-     
+     <script src="https://cdn.tailwindcss.com"></script>
 	</head>
-	<body>
-		<div class="card">
-			<div class="card__image">
+	<body class="flex flex-col justify-center items-center min-h-screen bg-amber-300 font-sans p-6">
+    <!-- figure out shadow on the card below-->
+		<div class="w-full flex flex-col items-center p-4 border-2 border-black rounded-xl ring-[4,4,0,0] max-w-[330px] bg-white">
+			<div class="rounded-xl">
 				<img
+          class="rounded-xl"
 					src="./assets/images/illustration-article.svg"
-					alt="Blog Image Preview that links to the blog post" />
+					alt="Blog Image Preview that links to the blog post"/>
 			</div>
 			<div class="card__content">
 				<button class="blog__section">Learning</button>
