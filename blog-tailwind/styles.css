@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
-    background-color: hsl(47, 88%, 63%);
+    background-color: hwb(47 31% 4%);
     font-family: 'Figtree', sans-serif;
 }
 
