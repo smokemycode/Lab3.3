@@ -1,5 +1,5 @@
-## Practicing Implementation with Frontend Mentor
-This repository contains my submission for the Figma Design Implementation lab, where I practiced translating Figma design files into polished, responsive, and accessible web components using Frontend Mentor challenges (QR Code Component and Blog Preview Card). It demonstrates my ability to interpret design specs, write clean HTML and CSS, and build professional components suitable for a development portfolio.
+## Developing with Tailwind
+This repository contains my submission for the Developing with Tailwind lab, where I practiced refactoring  design files into polished, responsive, and accessible web components using Tailwind. It demonstrates my ability to interpret design specs, write clean HTML and CSS, and build professional components suitable for a development portfolio.
 
 ## 📋 Project Overview
 Semantic HTML Structure
